@@ -1,0 +1,14 @@
+layout_spectrum: 0.5060306421946734
+typography_spectrum: 0.9172864845022559
+color:
+  brandStrength: 0.7355501789133996
+  lightness: 0.21753058745525777
+  saturation: 0.2555973459966481
+  rhythmicContrast: 0.25229000486433506
+  brandColors:
+    - '#E8E595'
+    - '#D0A825'
+    - '#40627C'
+    - '#26393D'
+    - '#FFFAE4'
+name: Ikonos
