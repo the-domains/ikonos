@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-07-19T05:27:21.174Z'
+datePublished: '2016-07-26T22:23:25.800Z'
 sourcePath: _posts/2016-04-15-the-great-barrier-reefs-best-hope-is-a-killer-robot.md
 inFeed: true
 isBasedOnUrl: 'http://www.wired.com/2016/04/starfish-killer-robot/'
@@ -20,7 +20,7 @@ related: []
 author:
   - name: ''
     url: ''
-dateModified: '2016-07-19T05:27:19.368Z'
+dateModified: '2016-07-26T22:23:25.193Z'
 title: The Great Barrier Reef's Best Hope Is a Killer Robot
 app_links: []
 publisher:
@@ -36,9 +36,10 @@ description: >-
   damaging the Great Barrier Reef at an alarming rate.
 inLanguage: en
 inNav: false
+via: {}
 starred: false
 _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><h1>The Great Barrier Reef's Best Hope Is a Killer Robot</h1><p>Crown-of-thorns starfish are the zombies of the sea. They won't die even if you cut them in half. To kill one, you must dismember it completely-or inject it with poisonous (to them) bile salts. Instead of braaains, these zombies munch coral, and off the coast of Australia, infestations of the beasts are damaging the Great Barrier Reef at an alarming rate.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7a102dad7be91d1ecb6e51d2a5c8c4bd3407a5ec.jpg" /></article>
+<article style=""><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/df2ff642b24f92833cf4da9277a687034f647587.jpg" /><h1>The Great Barrier Reef's Best Hope Is a Killer Robot</h1><p>Crown-of-thorns starfish are the zombies of the sea. They won't die even if you cut them in half. To kill one, you must dismember it completely-or inject it with poisonous (to them) bile salts. Instead of braaains, these zombies munch coral, and off the coast of Australia, infestations of the beasts are damaging the Great Barrier Reef at an alarming rate.</p></article>
